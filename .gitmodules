@@ -1,0 +1,3 @@
+[submodule "notion-mcp"]
+	path = notion-mcp
+	url = https://github.com/ccabanillas/notion-mcp.git
