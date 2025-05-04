@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notion-mcp": {
+      "command": "docker",
+      "args": ["run", "--rm", "-i", "notion-mcp-server"]
+    }
+  }
+} 
